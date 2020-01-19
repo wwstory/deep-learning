@@ -1,0 +1,80 @@
+1.	person, person.				人，人
+2.	vehicle, bicycle.			车辆，自行车
+3.	vehicle, car.				车辆，汽车
+4.	vehicle, motorcycle.			车辆，摩托车
+5.	vehicle, airplane.			车辆，飞机
+6.	vehicle, bus.				车辆，公共汽车
+7.	vehicle, train.				车辆，火车
+8.	vehicle, truck.				车辆，卡车
+9.	vehicle, boat.				车辆，船
+10.	outdoor, traffic light.		户外，交通信号灯
+11.	outdoor, fire hydrant.		户外，消火栓
+12.	outdoor, stop sign.			户外，停车标志
+13.	outdoor, parking meter.		户外，停车收费表
+14.	outdoor, bench.				户外，长凳
+15.	animal, bird.				动物，鸟
+16.	animal, cat.					动物，猫
+17.	animal, dog.					动物，狗
+18.	animal, horse.				动物，马
+19.	animal, sheep.				动物，绵羊
+20.	animal, cow.					动物，牛
+21.	animal, elephant.			动物，大象
+22.	animal, bear.				动物，熊
+23.	animal, zebra.				动物，斑马
+24.	animal, giraffe.				动物，长颈鹿
+25.	accessory, backpack.			配件，背包
+26.	accessory, umbrella.			配件，雨伞
+27.	accessory, handbag.			配件，手提包
+28.	accessory, tie.				配件，领带
+29.	accessory, suitcase.			配件，手提箱
+30.	sports, frisbee.				体育，飞盘
+31.	sports, skis.				运动，滑雪板
+32.	sports, snowboard.			运动，滑雪板
+33.	sports, sports ball.			体育，运动球
+34.	sports, kite.				体育，风筝
+35.	sports, baseball bat.		体育，棒球棍
+36.	sports, baseball glove.		体育，棒球手套
+37.	sports, skateboard.			体育，滑板
+38.	sports, surfboard.			运动，冲浪板
+39.	sports, tennis racket.		运动，网球拍
+40.	kitchen, bottle.				厨房，瓶子
+41.	kitchen, wine glass.			厨房，酒杯
+42.	kitchen, cup.				厨房，杯子
+43.	kitchen, fork.				厨房，叉子
+44.	kitchen, knife.				菜刀
+45.	kitchen, spoon.				厨房，勺子
+46.	kitchen, bowl.				厨房，碗
+47.	food, banana.				食物，香蕉
+48.	food, apple.					食物，苹果
+49.	food, sandwich.				食物，三明治
+50.	food, orange.				食物，橙色
+51.	food, broccoli.				食物，西兰花
+52.	food, carrot.				食物，胡萝卜
+53.	food, hot dog.				食物，热狗
+54.	food, pizza.					食物，比萨
+55.	food, donut.					食物，甜甜圈
+56.	food, cake.					食物，蛋糕
+57.	furniture, chair.			家具，椅子
+58.	furniture, couch.			家具，沙发
+59.	furniture, potted plant.		家具，盆栽植物
+60.	furniture, bed.				家具，床
+61.	furniture, dining table.		家具，餐桌
+62.	furniture, toilet.			家具，厕所
+63.	electronic, tv.				电子电
+64.	electronic, laptop.			电子，笔记本电脑
+65.	electronic, mouse.			电子，鼠标
+66.	electronic, remote.			电子的，远程的
+67.	electronic, keyboard.		电子，键盘
+68.	electronic, cell phone.		电子，手机
+69.	appliance, microwave.		用具，微波炉
+70.	appliance, oven.				电器，烤箱
+71.	appliance, toaster.			电器，烤面包机
+72.	appliance, sink.				电器，水槽
+73.	appliance, refrigerator.		电器，冰箱
+74.	indoor, book.				室内，书
+75.	indoor, clock.				室内，时钟
+76.	indoor, vase.				室内，花瓶
+77.	indoor, scissors.			室内，剪刀
+78.	indoor, teddy bear.			室内，泰迪熊
+79.	indoor, hair drier.			室内，吹风机
+80.	indoor, toothbrush.			室内，牙
