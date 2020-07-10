@@ -89,7 +89,7 @@ def test_coco():
     print('load model...finished!')
     # load data
     dataset_test = COCODateset(root=opt.root_path, augment_transform=SSDAugmentation(cfg['min_dim'], MEANS))
-    
+
     # evaluation
     test_net(
         opt.out_folder,
